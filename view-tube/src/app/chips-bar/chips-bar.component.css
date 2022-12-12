@@ -1,9 +1,9 @@
-/* mat-chip {
+mat-chip {
     font-size: small;
     font-weight: 300;
-} */
+} 
 
-ul {
+ ul {
     display: flex;
 }
 li {
@@ -13,4 +13,10 @@ li {
     color: whitesmoke;
     padding: 5px;
     border-radius: 5px;
-}
+} 
+
+.chip {
+     margin: 30px 1px 30px 15px !important;
+     font-size: small;
+     font-weight: 300;
+    }
